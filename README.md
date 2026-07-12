@@ -6,7 +6,7 @@ platform used for downloading such as snaptube, youtube, tiktok (though it is no
 <hr>
 
 #### INSPIRATION :
-To create an application like 
+To create a free application capable of downloading media in any os, regardless of location and other factors. 
 
 <hr>
 
